@@ -1,5 +1,5 @@
 domains                  = "zmalik.dev.learnf5.cloud"
 name                     = "zmalik"
-namespace                = "zmalik"
+namespace                = "zmalik-ns"
 origin_pool_service_name = "boutique-frontend.zmalik"
 origin_pool_virtual_site = "zmalik-vsite"
